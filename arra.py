@@ -44,9 +44,6 @@ print(range5)
 range6 = np.random.random((3,3)*10)
 print(range6)
 
-#Create New Array
-A = np.array([[1,2,3],[4,5,6]])
 
-print(A)
 
 
